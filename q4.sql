@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS q4 CASCADE;
 
-
+--The names of each album, its id, the number of sessions it took to complete and the number of people who worked on it
 CREATE TABLE q4 (
     albumid int NOT NULL
     albumname Char(50) NOT NULL
