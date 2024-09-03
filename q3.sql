@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS q3 CASCADE;
 
-
+--The names of the people who participated in the longest music session
 CREATE TABLE q3 (
     personid int NOT NULL
     names Char(50) NOT NULL
